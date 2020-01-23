@@ -133,4 +133,13 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+
 .pyre/
+
+# Mini project
+node_modules/
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
